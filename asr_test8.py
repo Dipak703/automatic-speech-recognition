@@ -87,7 +87,7 @@ def asrlisten():
     except Exception as e:
         pass
 
-x.speak("I am asr system ")
+x.speak("I am asr system my by gec surat students ")
 # x.speak("welcome to automated voice recognition system")
 nt = 220
 setposition(-360, nt)
